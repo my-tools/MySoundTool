@@ -1,0 +1,6 @@
+{
+  "name": "MySoundTool",
+  "tagline": "",
+  "body": "### Description\r\n\r\n* Convert audio data into image (spectrogram)\r\n* Create user-defined patterns within spectrogram\r\n* Match audio data from list of patterns\r\n* Allow easy feedback to revise patterns\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
